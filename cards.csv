@@ -105,7 +105,7 @@ images/Jokers/Castle.png,Castle,"This Joker gains &#43;3 Chips per discarded &#9
 images/Jokers/Smiley_Face.png,Smiley Face,Played Face cards give &#43;5 Mult when scored.,COMMON,tags
 images/Jokers/Campfire.png,Campfire,"This Joker gains &#215;0.5 Mult for each card sold, resets when Boss Blind is defeated.",RARE,tags-2
 images/Jokers/Golden_Ticket.png,Golden Ticket,Played Gold cards earn &#36;4 when scored.,COMMON,tags
-images/Jokers/Mr_Bones.png,Mr. Bones,Prevents Death if chips scored are at least 25&#37; of required chips. SELF DESTRUCTS,UNCOMMON,tags-1
+images/Jokers/MR_Bones.png,Mr. Bones,Prevents Death if chips scored are at least 25&#37; of required chips. SELF DESTRUCTS,UNCOMMON,tags-1
 images/Jokers/Acrobat.png,Acrobat,&#215;3 Mult on Final Hand of round.,UNCOMMON,tags-1
 images/Jokers/Sock_And_Buskin.png,Sock and Buskin,Retrigger all played Face cards.,UNCOMMON,tags-1
 images/Jokers/Swashbuckler.png,Swashbuckler,Adds the sell value of all other owned Jokers to Mult.,COMMON,tags
