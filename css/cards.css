@@ -42,6 +42,8 @@
     text-align: center;
     transform: rotateY(-180deg);
     border-radius: 20px;
+    font-family: "VT323", monospace;
+    font-size: x-large;
 }
   
 .card:hover .card-back {
@@ -56,12 +58,13 @@
     color: #000;
     background: #f2f2f2;
     display: inline-block;
-    font-size: 12px;
+    font-size: 17px;
     padding: 8px 12px;
     border-radius: 15px;
     position: absolute;
     bottom: 20px;
     left: 20px;
+    font-family: "Nova Mono", monospace;
 }
 
 /*Uncommon Jokers*/
@@ -69,12 +72,13 @@
     color: #000;
     background: #26ce85;
     display: inline-block;
-    font-size: 12px;
+    font-size: 17px;
     padding: 8px 12px;
     border-radius: 15px;
     position: absolute;
     bottom: 20px;
     left: 20px;
+    font-family: "Nova Mono", monospace;
 }
 
 /*Rare Jokers*/
@@ -82,12 +86,13 @@
     color: white;
     background: #e90f0f;
     display: inline-block;
-    font-size: 12px;
+    font-size: 17px;
     padding: 8px 12px;
     border-radius: 15px;
     position: absolute;
     bottom: 20px;
     left: 20px;
+    font-family: "Nova Mono", monospace;
 }
 
 /*Legendary Jokers*/
@@ -95,10 +100,11 @@
     color: white;
     background: #e9950f;
     display: inline-block;
-    font-size: 12px;
+    font-size: 17px;
     padding: 8px 12px;
     border-radius: 15px;
     position: absolute;
     bottom: 20px;
     left: 20px;
+    font-family: "Nova Mono", monospace;
 }

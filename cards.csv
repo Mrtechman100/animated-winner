@@ -46,7 +46,7 @@ images/Jokers/Ride_The_Bus.png,Ride the Bus,&#43;1 Mult per consecutive hand pla
 images/Jokers/Space_Joker.png,Space Joker,1 in 4 chance to upgrade level of played poker hand.,UNCOMMON,tags-1
 images/Jokers/Egg.png,Egg,Gains &#36;3 of sell value at end of round.,COMMON,tags
 images/Jokers/Burglar.png,Burglar,"When Blind is selected, gain &#43;3 Hands and lose all discards.",UNCOMMON,tags-1
-images/Jokers/Blackboard.png,Blackboard,&#215;3 Mult if all cards held in hand are Spades or Clubs.,UNCOMMON,tags-1
+images/Jokers/Blackboard.png,Blackboard,&#215;3 Mult if all cards held in hand are &#9824Spades or &#9827;Clubs.,UNCOMMON,tags-1
 images/Jokers/Runner.png,Runner,Gains &#43;15 Chips if played hand contains a Straignt.,COMMON,tags
 images/Jokers/Ice_Cream.png,Ice Cream,&#43;100 Chips &#8722;5 Chips for every hand played.,COMMON,tags
 images/Jokers/DNA.png,DNA,"If First Hand of round has only 1 card, add a permanent copy to deck and draw it to Hand.",RARE,tags-2
